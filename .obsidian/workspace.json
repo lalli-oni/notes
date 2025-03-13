@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Personal LarusThor/Job search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "78b3d9f520cde624",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9df558a63c0717a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Job search"
             }
           }
         ]
@@ -182,9 +166,43 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9df558a63c0717a5",
+  "active": "b9c0e26fa023b3a6",
   "lastOpenFiles": [
+    "Personal LarusThor/test/test.md",
+    "Personal LarusThor/test",
+    "README.md",
+    "Personal LarusThor/Job search.md",
+    "Personal LarusThor",
+    "TODO's.md",
+    "Knowledge resources/Frontend/Generic Frontend.md",
+    "Markdown templates/Links table.md",
+    "Knowledge resources/Regex.md",
+    "Knowledge resources/Frontend/Design.md",
     "Welcome.md",
+    "Knowledge resources/General software engineering.md",
+    "Knowledge resources/Frontend/CSS.md",
+    "Assets/Link reference images/Pasted image 20250313133306.png",
+    "Assets/Link reference images/Pasted image 20250313131843.png",
+    "Assets/Link reference images",
+    "Assets",
+    "Assets/Link reference images/Pasted image 20250313133024.png",
+    "Assets/Link reference images/Pasted image 20250313132849.png",
+    "Assets/Link reference images/Pasted image 20250313132846.png",
+    "Knowledge resources/Frontend/SVG.md",
+    "Assets/Link reference images/Pasted image 20250313131945.png",
+    "Knowledge resources/Authentication.md",
+    "Knowledge resources/Untitled.md",
+    "Knowledge resources/Frontend/HTML",
+    "Knowledge resources/Frontend/CSS",
+    "Knowledge resources/Frontend/SVG",
+    "Knowledge resources/Frontend",
+    "Knowledge resources/Lifestyle.md",
+    "Knowledge resources/Command line/Nushell.md",
+    "Knowledge resources/Command line/Powershell.md",
+    "Knowledge resources/Command line/Powershell/Untitled.md",
+    "Knowledge resources/Command line/Powershell",
+    "Knowledge resources/Command line",
+    "Knowledge resources.md",
     "2025-03-13.md"
   ]
 }
